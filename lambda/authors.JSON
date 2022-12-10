@@ -1,0 +1,30 @@
+[
+  {
+    "book": "the lord of the rings",
+    "author": "J. R. R. Tolkien"
+  },
+  {
+    "book": "pride and prejudice",
+    "author": "Jane Austen"
+  },
+  {
+    "book": "oliver twist",
+    "author": "Charles Dickens"
+  },
+  {
+    "book": "the polar express",
+    "author": "Chris Van Allsburg"
+  },
+  {
+    "book": "moby-dick",
+    "author": "Herman Melville"
+  },
+  {
+    "book": "the great gatsby",
+    "author": "F. Scott Fitzgerald"
+  },
+  {
+    "book": "the cat in the hat",
+    "author": "Dr. Seuss"
+  }
+]
